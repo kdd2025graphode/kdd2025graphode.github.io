@@ -20,6 +20,9 @@ The topics of this full-day tutorial include (but are not limited to) the follow
 . Hybrid Models in Epidemiology
 . EpiLearn package for Epidemic Modeling
 
+\n
+
+The tutorial outline is shown below: \n
 . * Introduction and Background (20 minutes)
     .. Epidemic Modeling
     .. Graph Machine Learning and Graph Neural Networks
@@ -41,24 +44,6 @@ The topics of this full-day tutorial include (but are not limited to) the follow
     .. Addressing Challenges in Epidemic Data
 
 
-
-# . *Introduction*
-#    .. Graphs and Graph Structured Data
-#    .. Tasks on Graph Structured Data
-#    .. Graph neural networks
-# . *Foundations*
-#    .. Basic Graph Theory
-#    .. Graph Fourier Transform
-# . *Models*
-#    .. Spectral-based GNN layers
-#    .. Spatial-based GNN layers
-#    .. Pooling Schemes for Graph-level Representation Learning
-#    .. Attacks and Robustness of Graph Neural Networks
-#    .. Deeper Graph Neural Networks
-#    .. Scalable Learning For Graph Neural Networks
-#    .. Self-supervised Learing for Graph Neural Networks
-# . *Applications*
-#    .. Recommendation
    
 
 == Tutorial slides 
