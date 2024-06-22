@@ -1,0 +1,155 @@
+= Graph Representation Learning:Foundations, Methods, Applications and Systems 
+~~
+== Time and Location
+*Time:* TBD \n 
+*Zoom Link:* TBD \n 
+
+== Abstract
+Graphs such as social networks and molecular graphs are ubiquitous data structures in the real world. Due to their prevalence, it is of great research importance to extract meaningful patterns from graph structured data  so that downstream tasks can be facilitated.  Instead of designing hand-engineered features, graph representation learning has emerged to learn representations that can encode the abundant information about the graph. It has achieved tremendous success in various tasks such as node classification, link prediction, and graph classification and has attracted increasing attention in recent years. In this tutorial, we systematically review the foundations, techniques, applications and advances in graph representation learning. 
+
+== Target Audience
+
+The topics of this tutorial cover main research directions of network embedding, graph neural network and deep learning; and the target audiences are those who are interested in graph representation learning and deep learning from both academia and industry.
+
+== Tutorial Syllabus
+
+The topics of this full-day tutorial include (but are not limited to) the following:
+. Graph theory and Graph Fourier Analysis
+. Foundations of Graph Neural Networks
+. Network embedding theories and systems
+. Scalable Graph Neural Networks
+. CogDL Toolkit for Graph Neural Networks
+. Heterogeneous Graph Neural Networks
+
+
+# . *Introduction*
+#    .. Graphs and Graph Structured Data
+#    .. Tasks on Graph Structured Data
+#    .. Graph neural networks
+# . *Foundations*
+#    .. Basic Graph Theory
+#    .. Graph Fourier Transform
+# . *Models*
+#    .. Spectral-based GNN layers
+#    .. Spatial-based GNN layers
+#    .. Pooling Schemes for Graph-level Representation Learning
+#    .. Attacks and Robustness of Graph Neural Networks
+#    .. Deeper Graph Neural Networks
+#    .. Scalable Learning For Graph Neural Networks
+#    .. Self-supervised Learing for Graph Neural Networks
+# . *Applications*
+#    .. Recommendation
+   
+
+== Tutorial slides 
+# [https://drive.google.com/file/d/1xTjlp0XYGH41sFz4X_APM3fjX6GRuKSI/view?usp=sharing Slides]
+TBD
+
+== Presenters
+~~
+{}{img_left}{images/wei_jin.jpg}{Image of Wei}{238}{238}{images/wei_jin.jpg}
+~~
+
+[https://chandlerbang.github.io/ *Wei Jin*] 
+\n Michigan State University, USA
+
+# is a first-year Ph.D. student of 
+# Computer Science and Engineering at Michigan State University (MSU), supervised 
+# by Dr. Jiliang Tang. His interests lie in Graph Representation Learning. 
+# Now I work on the area of graph neural network including its theory foundations, 
+# model robustness and applications.
+
+~~
+{}{img_left}{images/yao_ma.jpg}{Image of Yao}{238}{238}{images/yao_ma.jpg}
+~~
+
+[http://cse.msu.edu/~mayao4/ *Yao Ma*] 
+\n Michigan State University, USA
+# is a Ph.D. student of Computer Science and Engineering
+#  at Michigan State University. He also works as a research assistant at the Data Science and
+#  Engineering lab (DSE lab) led by Dr. Jiliang Tang. His research interests include network
+#  embedding and graph neural networks for representation learning on graph-structured data.
+#  He has published innovative works in top-tier conferences such as WSDM, ASONAM, ICDM,
+#  SDM, WWW, KDD and IJCAI. Before joining Michigan State University, he obtained
+# his master’s degree from Eindhoven University of Technology and bachelor’s degree from Zhejiang University.
+
+~~
+{}{img_left}{images/YiqiWang.jpg}{Image of Yiqi}{238}{178}{images/YiqiWang.jpg}
+~~
+
+[https://www.cse.msu.edu/~wangy206/ *Yiqi Wang*] 
+\n Michigan State University, USA
+# is a Ph.D. student in the Computer Science and Engineering Department at Michigan State University. She is working on graph neural networks including fundamental algorithms, robustness
+# and applications. She is one of the key contributors to the survey and empirical study on adversarial attacks and defenses on graphs with the developed repository.
+
+~~
+{}{img_left}{images/Xiaorui.jpg}{Image of Xiaorui}{238}{200}{images/Xiaorui.jpg}
+~~
+
+[https://www.cse.msu.edu/~xiaorui/ *Xiaorui Liu*] 
+\n Michigan State University, USA
+# is a Ph.D. student in the Computer Science and Engineering Department at Michigan State University. She is working on graph neural networks including fundamental algorithms, robustness
+# and applications. She is one of the key contributors to the survey and empirical study on adversarial attacks and defenses on graphs with the developed repository.
+
+
+~~
+{}{img_left}{images/jiliang_tang.jpg}{Image of Jiliang}{238}{276}{images/jiliang_tang.jpg}
+~~
+
+[https://www.cse.msu.edu/~tangjili/ *Jiliang Tang*] 
+\n Michigan State University, USA
+# [https://www.cse.msu.edu/~tangjili/ *Jiliang Tang*] is an assistant professor in the computer science and engineering department at Michigan State University since Fall@2016. Before that, he was a research scientist in Yahoo Research and got his PhD from Arizona State
+# University in 2015. His research interests including social computing, data mining and machine learning and their applications in education. He was the recipients of 2019 NSF Career Award, the 2015 KDD Best Dissertation runner up and 6
+# best paper awards (or runner-ups) including WSDM2018 and KDD2016. He serves as conference organizers (e.g., KDD, WSDM and SDM) and journal editors (e.g., TKDD). He has published his research in highly ranked journals and top conference
+# proceedings, which received thousands of citations and extensive media coverage.
+
+
+~~
+{}{img_left}{images/YukuoCen.jpg}{Image of Yukuo}{238}{238}{images/YukuoCen.jpg}
+~~
+
+[http://kdd2021graph.github.io/ *Yukuo Cen*]\n
+Tsinghua University, China
+
+~~
+{}{img_left}{images/JiezhongQiu.jpg}{Image of Jiezhong}{238}{236}{images/JiezhongQiu.jpg}
+~~
+
+[http://jiezhongqiu.com/ *Jie Zhong*]\n
+Tsinghua University, China
+
+~~
+{}{img_left}{images/JieTang.jpg}{Image of Jie}{238}{276}{images/JieTang.jpg}
+~~
+
+[https://keg.cs.tsinghua.edu.cn/jietang/ *Jie Tang*]\n
+Tsinghua University, China
+
+
+~~
+{}{img_left}{images/ChuanShi.png}{Image of Chuan}{238}{276}{images/ChuanShi.png}
+~~
+
+[http://www.shichuan.org/ *Chuan Shi*]\n
+Beijing University of Posts and Telecommunications, China
+
+~~
+{}{img_left}{images/Yanfang.jpg}{Image of Yanfang}{200}{276}{images/Yanfang.jpg}
+~~
+
+[http://community.wvu.edu/~yaye/ *Yanfang Ye*]\n
+Case Western Reserve University, USA
+
+~~
+{}{img_left}{images/Jiawei.jpg}{Image of Jiawei}{238}{236}{images/Jiawei.jpg}
+~~
+
+[http://jiaweizhang.net/ *Jiawei Zhang*]\n
+Florida State University, USA
+
+~~
+{}{img_left}{images/Philip.jpg}{Image of Philip}{238}{236}{images/Philip.jpg}
+~~
+
+[https://www.cs.uic.edu/~psyu/ *Philip S. Yu*]\n
+University of Illinois at Chicago, USA
