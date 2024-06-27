@@ -47,8 +47,8 @@ The tutorial outline is shown below: \n
    
 
 == Tutorial slides 
-# 
-[https:\/docs.google.com\/presentation\/d\/11LZ1rRnCNVWK_AoSeHv1n9NYS1x_Riu-1JzRtNIm8nM\/edit#slide=id.p *Slides*]
+
+[https:/docs.google.com/presentation/d/11LZ1rRnCNVWK_AoSeHv1n9NYS1x_Riu-1JzRtNIm8nM/edit#slide=id.p *Slides*]
 
 == Presenters
 ~~
@@ -66,6 +66,20 @@ The tutorial outline is shown below: \n
 [https://guanchengwan.github.io/ *Guancheng Wan*] 
 \n Emory Univerisity, USA
 
+~~
+{}{img_left}{images/prakash.jpg}{Image of B. Aditya Prakash}{238}{238}{images/prakash.jpg}
+~~
+
+[https://cse.gatech.edu/people/b-aditya-prakash *B. Aditya Prakash*] 
+\n Georgia Institute of Technology, USA
+
+
+~~
+{}{img_left}{images/max.jpg}{Image of Max S. Y. Lau}{238}{178}{images/max.jpg}
+~~
+
+[https://sph.emory.edu/faculty/profile/index.php?FID=max-lau-10935 *Max S. Y. Lau*] 
+\n Emory Univerisity, USA
 
 ~~
 {}{img_left}{images/wei.jpg}{Image of Wei}{238}{178}{images/wei.jpg}
@@ -73,5 +87,3 @@ The tutorial outline is shown below: \n
 
 [https://www.cs.emory.edu/~wjin30// *Wei Jin*] 
 \n Emory Univerisity, USA
-# is a Ph.D. student in the Computer Science and Engineering Department at Michigan State University. She is working on graph neural networks including fundamental algorithms, robustness
-# and applications. She is one of the key contributors to the survey and empirical study on adversarial attacks and defenses on graphs with the developed repository.
